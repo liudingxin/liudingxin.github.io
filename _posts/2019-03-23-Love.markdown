@@ -7,7 +7,7 @@ categories: Javascript
 
 Jamilah is Daddy's sweet girl.
 
-![Drag Racing](assets/mm.jpg)
+![Jamilah](assets/mm.jpg)
 <!--excerpt-->
 ```javascript
 const Razorpay = require('razorpay');
