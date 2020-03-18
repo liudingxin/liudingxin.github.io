@@ -1,0 +1,24 @@
+{% assign default_paths = site.pages | map: "path" %}
+{% assign page_paths = site.header_pages | default: default_paths %}
+
+1:{{ default_paths }}<br/>
+2:{{ page_paths }}<br/>
+3:{{ site.header_pages }}<br/>
+4:{{ page_paths[0]}}<br/>
+5:{{ page_paths | where:"path", page_paths | first}}<br/>
+6:{{ page_paths | where:"path", page_paths | last}}<br/>
+
+{% for path in page_paths %}
+{% assign item = site.pages | where: "path", path | last %}
+7:{{ item }}<br/>
+7-1: {{page_paths | first}}<br/>
+7-2: {{ path }}<br/>
+{% endfor %}
+
+    
+
+
+
+
+
+

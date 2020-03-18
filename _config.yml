@@ -54,3 +54,8 @@ theme: plainwhite
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+gems: [jekyll-paginate]
+
+paginate: 5
+paginate_path: "page:num"
