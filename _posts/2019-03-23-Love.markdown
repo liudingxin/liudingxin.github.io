@@ -6,9 +6,9 @@ categories: Javascript
 ---
 
 Jamilah is Daddy's sweet girl.
-
-![Jamilah](/assets/mm.jpg)
 <!--excerpt-->
+![Jamilah](/assets/mm.jpg)
+
 ```javascript
 const Razorpay = require('razorpay');
 
