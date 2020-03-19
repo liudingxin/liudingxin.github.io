@@ -7,6 +7,8 @@ categories: Javascript
 
 Jamilah is Daddy's sweet girl.
 <!--excerpt-->
+
+
 ![Jamilah](/assets/mm.jpg)
 
 ```javascript
