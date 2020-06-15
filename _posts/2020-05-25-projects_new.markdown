@@ -49,7 +49,7 @@ categories: NS
 
 ### 2014.04 【机翼】 带水冷板的超可视化高真空实验系统
 
-![2014.03_001](https://img.alicdn.com/imgextra/i3/14872765/O1CN01qV46Da1WIPjBaifFo_!!14872765.jpg)
+![2014.03](https://img.alicdn.com/imgextra/i3/14872765/O1CN01qV46Da1WIPjBaifFo_!!14872765.jpg)
 
 ### 2014.02 【格德米斯】 航天水泵测试真空腔体 2
 
