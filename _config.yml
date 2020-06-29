@@ -17,7 +17,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: liudingxin
-    github:  liudingxin
+    github: liudingxin
     #linkedIn: in/thelehhman
     #rss: rss
     # dribbble: jekyll
@@ -32,7 +32,6 @@ plainwhite:
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
-
     # Mastodon instances
     # mastodon:
     # - username: jekyll
