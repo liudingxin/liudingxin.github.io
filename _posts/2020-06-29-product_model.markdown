@@ -22,7 +22,7 @@ categories: Product
 | 功能孔                                | Φ3mm（H5mm），Φ5Φ6Φ7（H10mm） |
 | 材质与工艺                            | 铝合金阳极化                  |
 
-
+ 
 
 ![P](https://img.alicdn.com/imgextra/i2/14872765/O1CN01jS1L821WIPjHWQ3hA_!!14872765.jpg)
 ## 型号：P-70H30-1-41
@@ -51,9 +51,6 @@ categories: Product
 | 功能孔                                | Φ3mm（H5mm），Φ5Φ6Φ7（H10mm） |
 | 材质与工艺                            | 铝合金阳极化                  |
 
-
-
----测试 --- 
 # 平行反应导热模块
 ![导热模块G](C1DB6E394201457EB210593A9684DC28)
 | <div style="width:150px;"> 型号 </div> | G-128H60-9-26H48                                        |
