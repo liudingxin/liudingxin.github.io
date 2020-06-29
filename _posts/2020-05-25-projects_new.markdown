@@ -2,7 +2,7 @@
 layout: post
 title: "我的非标实验设备设计"
 date: 2020-05-25 09:00:00 +0800
-categories: NS
+categories: Project
 ---
 
 > **"Be yourself, everyone else is already taken."– Oscar Wilde**

@@ -5,10 +5,11 @@ date: 2020-06-29 09:00:00 +0800
 categories: Product
 ---
 
-> 用于化学，化工实验中，平行反应导热。产品目前分为试管（试剂瓶）用和烧瓶用，两个系列。
+> **用于化学，化工实验中，平行反应导热。产品目前分为试管（试剂瓶）用和烧瓶用，两个系列。**
+
+<!--excerpt-->
 ![G](https://img.alicdn.com/imgextra/i4/14872765/O1CN01eXBZbj1WIPjKWFozo_!!14872765.jpg)
 ## 型号：G-128H60-9-26H48
-<!--excerpt-->
 ![product](https://img.alicdn.com/imgextra/i4/14872765/O1CN01VfqC8S1WIPjKWIN1J_!!14872765.jpg)
 | key        | value                         |
 | ---------- | ----------------------------- |
